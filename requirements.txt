@@ -1,0 +1,12 @@
+openai
+pytesseract
+pdf2image
+pillow
+googlesearch-python
+requests
+beautifulsoup4
+requests-html
+lxml_html_clean
+spacy
+nltk
+time

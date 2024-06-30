@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+mlwizards/__init__.py
+mlwizards/chatbot.py
+mlwizards.egg-info/PKG-INFO
+mlwizards.egg-info/SOURCES.txt
+mlwizards.egg-info/dependency_links.txt
+mlwizards.egg-info/entry_points.txt
+mlwizards.egg-info/requires.txt
+mlwizards.egg-info/top_level.txt
+tests/__init__.py
+tests/test_chatbot.py
+tests/test_extraction.py
+tests/test_finetune.py

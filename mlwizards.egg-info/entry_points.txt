@@ -1,0 +1,2 @@
+[console_scripts]
+mlwizard = mlwizards.chatbot:main
