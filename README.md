@@ -10,12 +10,12 @@ MLWizards is a Python library designed to simplify the process of creating chatb
 
 ## Installation
 
-1. **Install the required Python packages**:
+**1. Install the required Python packages**:
    ```sh
    pip install pytesseract pdf2image pillow requests-html openai beautifulsoup4
    ```
 
-2. **Install Poppler**:
+**2. Install Poppler**:
 
    ### Windows
    - Download `Poppler` from [here](http://blog.alivate.com.au/poppler-windows/).
